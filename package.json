@@ -1,0 +1,14 @@
+{
+  "name": "tr-kripto",
+  "version": "1.0.0",
+  "description": "```shell\r npm install crypto-global\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Kayra",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^6.1.0"
+  }
+}
